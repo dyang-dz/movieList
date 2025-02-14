@@ -1,0 +1,3 @@
+src/reportWebVitals.js
+**/*.stories.*
+src/components/MovieCard.stories.js
